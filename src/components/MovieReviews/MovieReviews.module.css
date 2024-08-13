@@ -1,0 +1,17 @@
+.reviewItem {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .reviewItem h4 {
+    margin: 0 0 5px;
+    font-size: 18px;
+  }
+  
+  .reviewItem p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+  }
